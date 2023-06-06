@@ -1,0 +1,7 @@
+{
+  "name": "La-Nube-Cafe",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "vue-vite"
+}
